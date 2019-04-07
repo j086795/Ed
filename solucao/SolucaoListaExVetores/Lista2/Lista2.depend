@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554117883 source:c:\matioli\ed\lista2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vetores.h"
+
+1554117708 c:\matioli\ed\lista2\vetores.h
+
+1554117834 source:c:\matioli\ed\lista2\vetores.c
+
