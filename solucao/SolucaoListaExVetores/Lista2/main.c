@@ -18,6 +18,7 @@ int main()
     int v2[]={1,2,1,1};
     printf("1) Escalar = %d\n",escalar(v1,v2,4));
     printf("2) Todos diferentes = %d\n", todosDiferentes(v1,4));
+
     imprimeVetorInt(v1,4);
     rotaciona(v1,4);
     imprimeVetorInt(v1,4);
