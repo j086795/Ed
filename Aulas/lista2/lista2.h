@@ -1,0 +1,6 @@
+#ifndef LISTA2_H_INCLUDED
+#define LISTA2_H_INCLUDED
+
+
+
+#endif // LISTA2_H_INCLUDED

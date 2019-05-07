@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555438566 source:c:\users\aluno\ed\ed\aulas\vetornew\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alocacao.h"
+
+1555437603 c:\users\aluno\ed\ed\aulas\vetornew\alocacao.h
+
+1555438799 source:c:\users\aluno\ed\ed\aulas\vetornew\alocacao.c
+	<math.h>
+
